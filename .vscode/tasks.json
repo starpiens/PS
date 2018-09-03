@@ -8,13 +8,14 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-O2",
-                "-std=c++17",
+                "-Wall",
+                "-Wextra",
+                "-std=gnu++14",
                 "-g",
                 "-lm",
                 "-o",
-                "./bin/${fileBasenameNoExtension}",
-                "${fileBasename}"
+                "${fileDirname}/bin/${fileBasenameNoExtension}",
+                "${fileDirname}/${fileBasename}",
             ],
             "group": {
                 "kind": "build",

@@ -23,7 +23,8 @@
         "queue": "cpp",
         "stack": "cpp",
         "utility": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "memory": "cpp"
     },
     "python.pythonPath": "/Users/starlett/anaconda3/envs/mchess/bin/python",
 }
