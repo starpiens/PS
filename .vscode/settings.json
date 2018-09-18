@@ -27,4 +27,5 @@
         "memory": "cpp"
     },
     "python.pythonPath": "/Users/starlett/anaconda3/envs/mchess/bin/python",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
 }
