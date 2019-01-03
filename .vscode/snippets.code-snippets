@@ -34,6 +34,7 @@
 			"#include <unordered_set>",
 			"#include <unordered_map>",
 			"#include <list>",
+			"#include <random>",
 			"#include <functional>\n",
 			"#define INF 2100000000",
 			"#define ABS(n) (((n) > 0) ? (n) : -(n))",
