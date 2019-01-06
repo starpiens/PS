@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.c": "c",
         "__bit_reference": "cpp",
         "__hash_table": "cpp",
         "__string": "cpp",
@@ -24,7 +25,8 @@
         "stack": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "iostream": "cpp"
     },
     "python.pythonPath": "/Users/starlett/anaconda3/envs/mchess/bin/python",
 }

@@ -34,6 +34,7 @@
 			"#include <unordered_set>",
 			"#include <unordered_map>",
 			"#include <list>",
+			"#include <fstream>",
 			"#include <random>",
 			"#include <functional>\n",
 			"#define INF 2100000000",
