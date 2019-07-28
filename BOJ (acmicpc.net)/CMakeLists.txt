@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.13)
-project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
@@ -25,3 +24,4 @@ add_executable(17356 17356.cpp)
 add_executable(17349 17349.cpp)
 add_executable(15938 15938.cpp)
 add_executable(15740 15740.cpp)
+add_executable(17351 17351.cpp)
