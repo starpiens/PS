@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.13)
 
 set(CMAKE_CXX_STANDARD 14)
 
+add_executable(10990 10990.cpp)
 add_executable(17359 17359.cpp)
 add_executable(15897 15897.cpp)
 add_executable(14501 14501.cpp)
